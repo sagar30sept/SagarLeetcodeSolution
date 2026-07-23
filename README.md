@@ -19,4 +19,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sagar30sept/SagarLeetcodeSolution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sagar30sept/SagarLeetcodeSolution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sagar30sept/SagarLeetcodeSolution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sagar30sept/SagarLeetcodeSolution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
